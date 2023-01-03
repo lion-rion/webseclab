@@ -1,6 +1,5 @@
+[sqli]
 sqli/mysql/*
-
-
 
 [laravel]
 laravel/src/.env
