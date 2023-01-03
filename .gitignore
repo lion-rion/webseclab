@@ -1,0 +1,7 @@
+sqli/mysql/*
+
+
+
+[laravel]
+laravel/src/.env
+laravel/mysql/*
